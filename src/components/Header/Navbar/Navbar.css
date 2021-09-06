@@ -1,0 +1,26 @@
+.nav_links {
+    font-size: 22px;
+    color: black;
+    border-right: 1px solid lightgray;
+}
+
+.nav_links:last-child {
+    border: none;
+}
+
+.nav_links:hover, .nav_links:active, .nav_links:focus {
+    color: rgb(211, 14, 14);
+}
+
+.complete-nav {
+    margin-left: 17%;
+    position: absolute;
+    top:120px;
+    padding-top: 0;
+    z-index: 5;
+}
+
+.navbar-toggler {
+    margin-left: 0;
+}
+

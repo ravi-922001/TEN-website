@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital@1&display=swap');
+
+.complete-header {
+    margin-bottom: 90px;
+}
+
+.header_box {
+    position: relative;
+    z-index: 20;
+}
+
+.title-initials, .title-last {
+    font-family: 'Noticia Text', serif;
+    font-size: 45px;
+    font-weight: bolder;
+    line-height: 50px;
+}
+
+.title-last {
+    color: #E81038;
+}
+
+.title-initials {
+    color: black;
+}
+
+.cart-style {
+    background-color: rgb(240, 17, 17);
+    border-radius: 25px;
+}
+
+.cart-style:hover {
+    background-color: rgb(4, 4, 187);
+}
+
+.login {
+    border: 1px solid black;
+    padding-right: 20px;
+    padding-left: 15px;
+}
+
+.search-box input {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 250px;
+    padding-left: 10px;
+    margin-right: 0;
+    border-radius: 50px;
+}
+
+.search-box input:hover, .search-box input:focus{
+    background-color: rgba(255, 0, 0, 0.103);
+    border: 2px solid white;
+}
+
+/* ::-webkit-input-placeholder {
+    color: white;
+    font-size: 15px;
+}
+
+::-moz-placeholder {
+    color: white;
+} */

@@ -1,0 +1,32 @@
+.fb-icon {
+    color: #4267B2;
+}
+
+.tw-icon {
+    color: 	#1DA1F2;
+}
+
+.ig-icon {
+    color: #fb3958;
+}
+
+::-webkit-input-placeholder {
+    font-size: small;
+}
+
+::-moz-placeholder {
+    font-size: small;
+}
+
+.submit {
+    background-color: white;
+}
+
+.submit:hover {
+    background-color: red;
+    border-color: red;
+}
+
+footer {
+    background-color: rgba(255, 68, 0, 0.657);
+}
